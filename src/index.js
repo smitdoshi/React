@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'; // is used to actually interact with applicati
 // Create a new component. This component should produce
 // some HTMl
 
-const App = function(){
+const App = () =>{
   return <div> Hello World from Scratch </div>;
 }
 
