@@ -1,10 +1,11 @@
 import React from 'react';   // Is used to create and manage our components
 import ReactDOM from 'react-dom'; // is used to actually interact with application
 
+
 // Create a new component. This component should produce
 // some HTMl
 
-const App = () =>{
+const App = () => {
   return <div> Hello World from Scratch </div>;
 }
 
